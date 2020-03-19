@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Prefetch Static Pages",
+		"description": "Preload the static pages and homepage for fast navigation."
+	}
+}
